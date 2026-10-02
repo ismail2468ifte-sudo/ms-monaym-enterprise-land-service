@@ -1,0 +1,29 @@
+================================================================================
+M.S MONAYM ENTERPRISE - OFFICIAL APPLICATION DISCLAIMER & GOVT URL DECLARATION
+================================================================================
+
+[বাংলা]
+এই এ্যাপটি একটি বেসরকারি এ্যাপ, শুধু এ্যাপের মধ্যে থাকা কিছু কাজের সুবিধার জন্য সরকারি URL লিংক সোর্স ব্যবহার করা হবে।
+
+১. অ্যাপের ধরণ: সম্পূর্ণ বেসরকারি ও বাণিজ্যিক/নাগরিক সহায়তা অ্যাপ।
+২. সরকারি প্রতিনিধিত্ব: এই অ্যাপটি বাংলাদেশ সরকার বা কোনো সরকারি মন্ত্রণালয়ের অফিশিয়াল অ্যাপ নয় এবং কোনো সরকারি সংস্থার সরাসরি প্রতিনিধিত্ব করে না।
+৩. ব্যবহৃত সরকারি URL লিংক সোর্সসমূহ:
+   - ভূমি মন্ত্রণালয় বাংলাদেশ: https://www.land.gov.bd
+   - জাতীয় ই-পর্চা সেবা: https://eporcha.gov.bd
+   - ই-নামজারি ও মিউটেশন সেবা: https://mutation.land.gov.bd
+   - জাতীয় ভূমি রেকর্ড ও জরিপ অধিদপ্তর (DLRS): http://www.dlrs.gov.bd
+৪. উদ্দেশ্য: সাধারণ নাগরিকদের খতিয়ান যাচাই, জমির হিসাব-নিকাশ, রেজিস্ট্রি ফি ক্যালকুলেশন ও ডিজিটাল ভূমি সেবা প্রাপ্তিতে সহায়তা প্রদান।
+
+--------------------------------------------------------------------------------
+[ENGLISH]
+NON-GOVERNMENTAL APPLICATION DISCLAIMER & PUBLIC URL SOURCE DECLARATION
+
+1. Nature of Application: This is a private, non-governmental utility application developed by M.S MONAYM ENTERPRISE.
+2. No Government Affiliation: This application is not an official app of the Government of Bangladesh and does not represent, claim affiliation with, or have official authorization from any government entity or ministry.
+3. Government URL Sources Used for Public Convenience:
+   - Ministry of Land, Bangladesh: https://www.land.gov.bd
+   - National e-Porcha Portal: https://eporcha.gov.bd
+   - e-Mutation Portal: https://mutation.land.gov.bd
+   - Directorate of Land Records and Surveys (DLRS): http://www.dlrs.gov.bd
+4. Sole Purpose: To provide citizens with educational guidelines, fee calculation calculators, and easy reference shortcuts to publicly available official government portals.
+================================================================================

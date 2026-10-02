@@ -1,0 +1,8 @@
+{
+  "name": "M.S MONAYM ENT.",
+  "description": "বেসরকারি অ্যাপ - শুধু কাজের সুবিধার জন্য সরকারি URL লিংক সোর্স ব্যবহার করা হয়েছে। খতিয়ান, ই-পর্চা, ই-নামজারি ও ভূমি সেবা সহকারী।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
